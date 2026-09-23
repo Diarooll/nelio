@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc69a6be-311a-4156-8fce-66a3be2cf542" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/naosei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nelio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/nao sei.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/out/application/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/out/entities/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/out/entities/enums/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nao sei/application/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/OrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/posts/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/posts/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/principal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sla/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sla/src/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sla/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sla/src/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sla/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Diarooll&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Diarooll/nelio.git&quot;,
+    &quot;accountId&quot;: &quot;e1cde38f-de1e-47f7-ae52-bd285596e5a0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3J9R2dVR3ksyP0nZRnLccrxNxLs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/Documents/GitHub/nelio&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/diego/Documents/GitHub/nelio/naosei/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\Documents\GitHub\nelio\sla\src\principal" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="entities" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc69a6be-311a-4156-8fce-66a3be2cf542" name="Changes" comment="" />
+      <created>1789071092001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789071092001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
