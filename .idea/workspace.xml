@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc69a6be-311a-4156-8fce-66a3be2cf542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/naosei/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nelio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/nao sei.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/out/application/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/out/entities/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/out/entities/enums/OrderStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/src/application/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nao sei/src/classes/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nao sei/application/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/OrderStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nao sei/classes/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/posts/Comment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/posts/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/principal/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sla/src/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sla/src/BusinessAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sla/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sla/src/SavingsAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sla/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naosei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/naosei/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
