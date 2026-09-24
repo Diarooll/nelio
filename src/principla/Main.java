@@ -1,35 +1,62 @@
 package principla;
 
-import entities.Account;
-import entities.BusinessAccount;
-import entities.SavingsAccount;
+import entities.Circle;
+import entities.Rectangle;
+import entities.Shape;
+import entities.enums.Color;
 
 import java.util.ArrayList;
-import java.util.List;
+import java.util.Scanner;
 
-public class Main{
+public class Main {
     static void main(String[] args) {
-        List<Account> list = new ArrayList<>();
+        Scanner sc = new Scanner(System.in);
+        ArrayList<Shape> list = new ArrayList<>();
 
-        list.add(new SavingsAccount("diego", 1000, 500, 300));
-        list.add(new BusinessAccount("diego", 1002, 400, 0.01));
-        list.add(new BusinessAccount("diego", 1006, 200, 0.01));
-        list.add(new SavingsAccount("diego", 1005, 300, 300));
 
-        double sum = 0.0;
+        System.out.print("Enter the number of shapes: ");
+        int qtd = sc.nextInt();
+        sc.nextLine();
+        for(int i=0;i<qtd;i++){
+            System.out.printf("Shape #%d data: \n", i+1);
+            System.out.print("Rectangle or Circle (r, c)? ");
+            char option = sc.nextLine().charAt(0);
+            char lowerOption = Character.toLowerCase(option);
+            System.out.print("Color (BLACK/BLUE/RED): ");
 
-        for(Account account: list){
-            sum += account.getBalance();
+            //LE OQ O USUARIO DIGITOU E PEGAR O VALOR E TRANSFORMA PARA COLOR
+            Color color = Color.valueOf(sc.nextLine().toUpperCase());
+
+            switch (lowerOption){
+                case 'r':
+                    System.out.print("Width: ");
+                    double width = sc.nextDouble();
+                    System.out.print("Height: ");
+                    double height = sc.nextDouble();
+                    sc.nextLine();
+                    list.add(new Rectangle(color, width, height));
+                    break;
+                case 'c':
+                    System.out.print("Radius: ");
+                    double radius = sc.nextDouble();
+                    sc.nextLine();
+                    list.add(new Circle(color, radius));
+                    break;
+            }
         }
-        System.out.printf("Sum of balance: R$ %.2f\n\n", sum);
 
-        for(Account acc : list){
-            System.out.printf("Balance before deposit: $%.2f\n", acc.getBalance());
-            acc.deposit(10.0);
-            System.out.printf("Balance after deposit: $%.2f\n\n", acc.getBalance());
-
+        System.out.println("\n\nShape areas: ");
+        for (Shape s : list){
+            System.out.println(s);
+            System.out.println();
         }
 
 
+
+
+
+
+
+        sc.close();
     }
 }

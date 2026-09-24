@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc69a6be-311a-4156-8fce-66a3be2cf542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principla/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/enums/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naosei/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/naosei/naosei.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nelio/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nelio/naosei.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nelio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nelio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/principla/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/principla/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +39,12 @@
     &quot;assignee&quot;: &quot;Diarooll&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Diarooll/nelio.git&quot;,
-    &quot;accountId&quot;: &quot;b73835f8-aa2e-4ced-a52e-f64382e78024&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Diarooll/nelio.git",
+    "accountId": "e1cde38f-de1e-47f7-ae52-bd285596e5a0"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -55,27 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Asd.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.principale.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/diego/Documents/GitHub/nelio",
-    "onboarding.tips.debug.path": "C:/Users/diego/OneDrive/Documents/Github/nelio/untitled/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Asd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.principale.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/Documents/GitHub/nelio&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/diego/OneDrive/Documents/Github/nelio/untitled/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diego\Documents\GitHub\nelio\sla\src\principal" />
@@ -84,15 +85,6 @@
       <recent name="entities" />
       <recent name="" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="principale" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="principla.Main" />
-      <module name="nelio" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
